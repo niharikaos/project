@@ -44,11 +44,13 @@ if _name_ == "_main_":
 
 
 
-# Enter a number to find its modular inverse: 3 
-# Enter the modulus (m): 7
+# Enter a number to find its modular inverse: 7
+# Enter the modulus (m): 26
 # q    r1   r2   r    t1   t2   t   
 # ----------------------------------------
-# 0    3    7    3    1    0    1
-# 2    7    3    1    0    1    -2
-# 3    3    1    0    1    -2   7
-# The modular inverse of 3 mod 7 is: 5
+# 0    7    26   7    1    0    1
+# 3    26   7    5    0    1   -3
+# 1    7    5    2    1   -3    4
+# 2    5    2    1   -3    4   -11
+# 2    2    1    0    4   -11   26
+# The modular inverse of 7 mod 26 is: 4
