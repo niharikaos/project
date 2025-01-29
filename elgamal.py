@@ -55,13 +55,13 @@ if _name_ == "_main_":
     main()
 
 
-# Enter a large prime number p: 23
-# Enter a primitive root e modulo p: 5
-# Selected private key d: 9
-# Computed e1 = 11
-# Computed e2 = 5
-# Enter the plaintext to encrypt (as a number): 15
-# Selected random integer r: 21
-# Computed C1 = 21
-# Computed C2 = 3
-# Decrypted plaintext: 11
+# Enter a large prime number p: 17
+# Enter a primitive root e modulo p: 3
+# Selected private key d: 7
+# Computed e1 = 6
+# Computed e2 = 3
+# Enter the plaintext to encrypt (as a number): 12
+# Selected random integer r: 5
+# Computed C1 = 12
+# Computed C2 = 10
+# Decrypted plaintext: 12
