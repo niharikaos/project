@@ -55,8 +55,8 @@ if _name_ == "_main_":
 
 
 
-# Enter the text to encrypt (uppercase letters only): ABCD
+# Enter the text to encrypt (uppercase letters only): HELLO
 # Enter the value of 'k1' (multiplicative key): 5
 # Enter the value of 'k2' (additive key): 8
-# Encrypted Text: INSX
-# Decrypted Text: ABCD
+# Encrypted Text: XUBBE
+# Decrypted Text: HELLO
