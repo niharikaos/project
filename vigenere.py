@@ -49,7 +49,7 @@ if _name_ == "_main_":
 
 
 
-# Enter the text to encrypt (uppercase letters only): ABCD
-# Enter the key (uppercase letters only): 5
-# Encrypted Text: OPQR
-# Decrypted Text: ABCD
+# Enter the text to encrypt (uppercase letters only): HELLO
+# Enter the key (uppercase letters only): KEY
+# Encrypted Text: RIJVS
+# Decrypted Text: HELLO
